@@ -1,0 +1,14 @@
+div {
+	background-color:lightgrey;
+	width:300px;
+	border:20px solid red;
+	padding:40px;
+	margin:20px;
+}
+.center  {
+	text-align:center;
+	color:green;
+}
+p.large {
+	font-size:150%;
+}
