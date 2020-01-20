@@ -4,6 +4,7 @@ div {
 	border:20px solid red;
 	padding:40px;
 	margin:20px;
+        float:left;
 }
 .center  {
 	text-align:center;
